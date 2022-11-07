@@ -1,2 +1,2 @@
-# blog-app
-This is my first full stack project.
+Blog-App
+My first backend project 
